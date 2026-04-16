@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SDN Traffic Monitoring and Statistics Collector
 
 > **Orange SDN Mininet Project** – Individual submission  
@@ -242,3 +243,7 @@ Student Name: _[Your Name]_
 Course: SDN and Network Virtualization  
 Institution: _[Your Institution]_  
 Date: _[Submission Date]_
+=======
+# sdn_traffic_monitor
+A controller module that collects and displays traffic reports. Displays packets, byte counts and generates simple reports. Done using mininet and ryu environment.
+>>>>>>> c575fb456dab02c9d71daa84e85a88090dc252b2
